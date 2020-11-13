@@ -17,7 +17,7 @@
     "binding",
     "c"
   ],
-  "homepage": "http://github.com/node-ffi/node-ffi",
+  "homepage": "https://github.com/lxe/node-ffi",
   "engines": {
     "node": ">=0.10.0"
   },
@@ -39,9 +39,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/node-ffi/node-ffi.git"
+    "url": "http://github.com/lxe/node-ffi.git"
   },
   "bugs": {
-    "url": "http://github.com/node-ffi/node-ffi/issues"
+    "url": "https://github.com/lxe/node-ffi/issues"
   }
 }
